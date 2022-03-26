@@ -1,4 +1,5 @@
 import React from 'react';
+import Cart from '../Cart/Cart';
 import './Product.css';
 
 const Product = ({ product, handleAddToCart }) => {
@@ -11,7 +12,7 @@ const Product = ({ product, handleAddToCart }) => {
       <button
         className="btn btn-outline-success align-content-center"
         onClick={() => {
-          handleAddToCart(id);
+          handleAddToCart(product);
         }}
       >
         Add To Cart

@@ -13,8 +13,8 @@ const Shop = () => {
       .then((data) => setProducts(data));
   }, []);
 
-  const handleAddToCart = (id) => {
-    const newCart = [...cart, id];
+  const handleAddToCart = (product) => {
+    const newCart = [...cart, product];
     setCart(newCart);
   };
 
@@ -29,8 +29,11 @@ const Shop = () => {
           </div>
         </div>
         <div className="cart-container col-12 col-md-3 bg-warning">
-          <h5>Cart: {cart.length}</h5>
-          <Cart></Cart>
+          <h3>Cart: {cart.length}</h3>
+          {cart.map((item) => (
+            <Cart key={item.id} item={item}></Cart>
+          ))}
+          {/* <Cart key={cart.id} cart={}></Cart> */}
         </div>
       </div>
     </div>
