@@ -1,0 +1,98 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead1",
+    "name": "MEN'S OFFICIAL LEATHER BAG TYPE-1",
+    "price": 420,
+    "img": "https://images.unsplash.com/photo-1517612228538-cefdbc2c01e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGVhdGhlciUyMGJhZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b862",
+    "name": "FAMILY TRAVEL LEATHER BAG TYPE-1",
+    "price": 196,
+    "img": "https://images.unsplash.com/photo-1525103504173-8dc1582c7430?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGVhdGhlciUyMGJhZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f73",
+    "name": "MEN'S OFFICIAL LEATHER BAG TYPE-2",
+    "price": 245,
+    "img": "https://images.unsplash.com/photo-1510783891783-80cda42ebfd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bGVhdGhlciUyMGJhZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe924",
+    "name": "WOMEN'S SHOULDER LEATHER BAG TYPE-1",
+    "price": 229,
+    "img": "https://images.unsplash.com/photo-1613482184972-f9c1022d0928?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 32,
+    "quantity": 0
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e5",
+    "name": "WOMEN'S SHOULDER LEATHER BAG TYPE-2",
+    "price": 287,
+    "img": "https://images.unsplash.com/photo-1523779105320-d1cd346ff52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 49,
+    "quantity": 0
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb06",
+    "name": "WOMEN'S SHOULDER LEATHER BAG TYPE-3",
+    "price": 138,
+    "img": "https://images.unsplash.com/photo-1604176424472-17cd740f74e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 19,
+    "quantity": 0
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d7",
+    "name": "MEN'S PREMIUM QUALITY BACKPACK",
+    "price": 226,
+    "img": "https://images.unsplash.com/photo-1474376962954-d8a681cc53b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 15,
+    "quantity": 0
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea8",
+    "name": "WOMEN'S PARTY PURSE LEATHER BAG",
+    "price": 319,
+    "img": "https://images.unsplash.com/photo-1591561954555-607968c989ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 50,
+    "quantity": 0
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da79",
+    "name": "WOMEN'S SMALL LEATHER BACKPACK TYPE-1",
+    "price": 760,
+    "img": "https://images.unsplash.com/photo-1602090573683-68c6f9228ed7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 46,
+    "quantity": 0
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da80",
+    "name": "WOMEN'S SMALL LEATHER BACKPACK TYPE-2",
+    "price": 860,
+    "img": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVhdGhlciUyMGJhZ3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "shipping": 62,
+    "quantity": 0
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da81",
+    "name": "MEN'S SMALL LEATHER BACKPACK",
+    "price": 960,
+    "img": "https://images.unsplash.com/photo-1490427712608-588e68359dbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 58,
+    "quantity": 0
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da82",
+    "name": "FAMILY TRAVEL LEATHER BAG TYPE-1",
+    "price": 750,
+    "img": "https://images.unsplash.com/photo-1541336318489-083c7d277b8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGxlYXRoZXIlMjBiYWdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "shipping": 45,
+    "quantity": 0
+  }
+]
