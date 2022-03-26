@@ -17,6 +17,10 @@ const Shop = () => {
     const newCart = [...cart, product];
     setCart(newCart);
   };
+  const handleChooseAgain = () => {
+    const emptyCart = [];
+    setCart(emptyCart);
+  };
 
   return (
     <div>
@@ -31,9 +35,11 @@ const Shop = () => {
         <div className="cart-container col-12 col-md-3 bg-warning">
           <h3>Cart: {cart.length}</h3>
           {cart.map((item) => (
-            <Cart key={item.id} item={item}></Cart>
+            <Cart key={item.id} item={item} handleChooseAgain={handleChooseAgain}></Cart>
           ))}
-          {/* <Cart key={cart.id} cart={}></Cart> */}
+          <button onClick={handleChooseAgain} className="btn btn-outline-dark">
+            Choose Again
+          </button>
         </div>
       </div>
     </div>
