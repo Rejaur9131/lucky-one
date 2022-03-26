@@ -1,9 +1,8 @@
 import React from 'react';
-import Cart from '../Cart/Cart';
 import './Product.css';
 
 const Product = ({ product, handleAddToCart }) => {
-  const { img, name, price, id } = product;
+  const { img, name, price } = product;
   return (
     <div className="product-info col-12 col-md-3">
       <img src={img} alt="" />
